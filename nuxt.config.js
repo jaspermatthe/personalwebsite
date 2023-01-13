@@ -3,7 +3,7 @@ export default {
   ssr: false,
 
   // Uncomment when pushing for deployment (npm run build and run generate)
-  // target: 'static',
+  target: 'static',
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
