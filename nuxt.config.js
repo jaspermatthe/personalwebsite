@@ -4,6 +4,9 @@ export default {
 
   // Uncomment when pushing for deployment (npm run build and run generate)
   target: 'static',
+  router: {
+    base: '/personalwebsite/'
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
