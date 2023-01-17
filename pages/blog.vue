@@ -1,5 +1,5 @@
 <template>
-  <div class="w-4/5 mx-auto md:w-1/2 flex flex-col h-screen" id="top">
+  <div id="top" class="w-max mx-auto md:w-11/12 flex flex-col h-screen">
     <NavigationBar />
     <MainHero />
     <WorkExperience />

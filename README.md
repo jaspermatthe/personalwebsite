@@ -8,6 +8,7 @@ $ npm install
 
 # serve with hot reload at localhost:3000
 $ npm run dev
+$ $env:NODE_OPTIONS = "--openssl-legacy-provider"
 
 # build for production and launch server
 $ npm run build
